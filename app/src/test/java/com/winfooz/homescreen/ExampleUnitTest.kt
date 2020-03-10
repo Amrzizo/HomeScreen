@@ -1,4 +1,4 @@
-package com.Winfooz.homeScreen
+package com.winfooz.homescreen
 
 import org.junit.Test
 
